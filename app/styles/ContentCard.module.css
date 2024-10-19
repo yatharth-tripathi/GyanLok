@@ -1,0 +1,16 @@
+/* frontend/app/styles/ContentCard.module.css */
+
+.contentCard {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .contentCard h2 {
+    margin-top: 0;
+  }
+  
+  .contentCard button {
+    margin-right: 10px;
+  }
+  
